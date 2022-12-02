@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Veg Burger",
+      "shortName": "Veg Bur",
+      "image": "/images/burger.jpg",
+      "cartImage": "/images/burger.jpg",
+      "category": "burgers",
+      "price": 29,
+      "description": "Tailor your listening experience with bespoke dynamic drivers from the new YX1 Wireless Earphones. Enjoy incredible high-fidelity sound even in noisy environments with its active noise cancellation feature."
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "shortName": "Bur",
+      "image": "/images/burger1.jpg",
+      "cartImage": "/images/burger1.jpg",
+      "category": "burgers",
+      "price": 15,
+      "description": "Tailor your listening experience with bespoke dynamic drivers from the new YX1 Wireless Earphones. Enjoy incredible high-fidelity sound even in noisy environments with its active noise cancellation feature."
+    },
+    {
+      "id": 3,
+      "name": "Large Zinger Burger",
+      "shortName": "Xl Zin Bur",
+      "image": "/images/burger2.jpg",
+      "cartImage": "/images/burger2.jpg",
+      "category": "burgers",
+      "price": 69,
+      "description": "Tailor your listening experience with bespoke dynamic drivers from the new YX1 Wireless Earphones. Enjoy incredible high-fidelity sound even in noisy environments with its active noise cancellation feature."
+    },
+    {
+      "id": 4,
+      "name": "Fries & Burger",
+      "shortName": "Fries Bur",
+      "image": "/images/burger3.jpg",
+      "cartImage": "/images/burger3.jpg",
+      "category": "burgers",
+      "price": 59,
+      "description": "Tailor your listening experience with bespoke dynamic drivers from the new YX1 Wireless Earphones. Enjoy incredible high-fidelity sound even in noisy environments with its active noise cancellation feature."
+    },
+    {
+      "id": 5,
+      "name": "French Fries",
+      "shortName": "Fren Fries",
+      "image": "/images/burgerAndFries.jpg",
+      "cartImage": "/images/burgerAndFries.jpg",
+      "category": "fries",
+      "price": 19,
+      "description": "Tailor your listening experience with bespoke dynamic drivers from the new YX1 Wireless Earphones. Enjoy incredible high-fidelity sound even in noisy environments with its active noise cancellation feature."
+    },
+    {
+      "id": 6,
+      "name": "Pizza",
+      "shortName": "Piz",
+      "image": "/images/pizza.jpg",
+      "cartImage": "/images/pizza.jpg",
+      "category": "pizza",
+      "price": 29,
+      "description": "Tailor your listening experience with bespoke dynamic drivers from the new YX1 Wireless Earphones. Enjoy incredible high-fidelity sound even in noisy environments with its active noise cancellation feature."
+    },
+    {
+      "id": 7,
+      "name": "Burger",
+      "shortName": "Bur",
+      "image": "/images/pizza2.png",
+      "cartImage": "/images/pizza2.png",
+      "category": "burgers",
+      "price": 15,
+      "description": "Tailor your listening experience with bespoke dynamic drivers from the new YX1 Wireless Earphones. Enjoy incredible high-fidelity sound even in noisy environments with its active noise cancellation feature."
+    },
+    {
+      "id": 8,
+      "name": "Burger",
+      "shortName": "Bur",
+      "image": "/images/burger1.jpg",
+      "cartImage": "/images/burger1.jpg",
+      "category": "burgers",
+      "price": 15,
+      "description": "Tailor your listening experience with bespoke dynamic drivers from the new YX1 Wireless Earphones. Enjoy incredible high-fidelity sound even in noisy environments with its active noise cancellation feature."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="267" height="267" viewBox="0 0 267 267">
+  <g id="smile-emoji" transform="translate(-915 -525.762)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(915 525.762)" fill="#fff" stroke="#343a40" stroke-width="11">
+      <circle cx="133.5" cy="133.5" r="133.5" stroke="none"/>
+      <circle cx="133.5" cy="133.5" r="128" fill="none"/>
+    </g>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="23.5" cy="24" rx="23.5" ry="24" transform="translate(970 598.762)" fill="#ffb703"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="24" cy="24" r="24" transform="translate(1079 598.762)" fill="#ffb703"/>
+    <path id="Path_1" data-name="Path 1" d="M926.579,580.221s80.894,85.7,161.455,0" transform="translate(40.305 136.61)" fill="none" stroke="#ffb703" stroke-linecap="round" stroke-width="9"/>
+  </g>
+</svg>
